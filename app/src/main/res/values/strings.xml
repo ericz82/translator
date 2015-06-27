@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Translator</string>
+
+    <string name="your_lang">Choose your language:</string>
+    <string name="action_settings">Settings</string>
+    <string name="english">English</string>
+    <string name="french">Français</string>
+    <string name="chinese">中文</string>
+    <string name="phrase">Choose a phrase:</string>
+    <string name="result">Your translated results:</string>
+
+    <string name="helloe">Hello</string>
+    <string name="hellof">Bonjour</string>
+    <string name="helloc">你好</string>
+    <string name="how_muche">How much?</string>
+    <string name="how_muchf">Combien coûte-t-il?</string>
+    <string name="how_muchc">幾塊錢?</string>
+    <string name="pleasee">Please</string>
+    <string name="pleasef">S\'il vous plaît</string>
+    <string name="pleasec">請</string>
+    <string name="thank_youe">Thank you</string>
+    <string name="thank_youf">Merci</string>
+    <string name="thank_youc">謝謝</string>
+    <string name="goodbyee">Goodbye</string>
+    <string name="goodbyef">Au revoir</string>
+    <string name="goodbyec">再見</string>
+</resources>
